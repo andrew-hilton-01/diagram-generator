@@ -19,6 +19,14 @@ This project is a web-based tool that generates and renders **Mermaid.js** diagr
 - **Backend**: Python, FastAPI, Uvicorn
 - **AI Model**: Claude 3.5 Haiku via OpenRouter API
 
+## Screenshots
+Use a more detailed prompt like the examples in backend.py, but this is roughly what a bad prompt can get you if you just let the LLM assume:
+![image](https://github.com/user-attachments/assets/b8c8e32c-f63d-4ee0-9ba8-6add4d34bb38)
+![image](https://github.com/user-attachments/assets/221e92c8-3635-48b7-bafc-44bb504b6623)
+![image](https://github.com/user-attachments/assets/a0434e80-5124-4602-8eb9-142358e3700d)
+
+
+
 ## Installation & Setup
 1. Clone the repository:
    ```bash
